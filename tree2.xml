@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<input>
+  <scalars>
+    <author>Matthew</author>
+    <title>XML Developer's Guide</title>
+    <genre>Computer</genre>
+    <price>44.95</price>
+    <publish_date>2000-10-01</publish_date>
+  </scalars>
+  <xmesh>
+    0.0 1.0 2.0 3.0 4.2
+  </xmesh>
+  <ymesh>
+    0.0 1.0 2.0 3.0 4.0
+  </ymesh>
+  <zmesh>
+    0.0 1.0 2.0 3.0 4.0
+  </zmesh>
+</input>
